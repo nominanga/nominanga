@@ -7,19 +7,19 @@
 
 ### 📖 About me
 
-- Computer Science student in NRNU MEPhI (Program engineering, AI). 
-- Currently identify myself as a Backend Developer, but also used to work with Frontend, Fullstack.
-- Curious about system programming and ML/AI, planning to explore this technologies more deeply.
+- Computer Science student at NRNU MEPhI (Program Engineering, AI)  
+- Currently focused on Backend Development, but also experienced with Frontend and Fullstack  
+- Curious about system programming and ML/AI — planning to explore these areas more deeply
 
 ---
 
 ### 🚀 Skills & Experience
 
-- 🧑‍💻 **Fullstack engineering** — confident with both frontend (React) and backend (Spring Boot, Django, NestJS)
-- 🤖 Interested in algorithms, AI, and system programming
-- 🔎 Experienced in automation and scripting (Python, Selenium, PyAutoGui, web scraping)
-- 💅 Enjoy crafting responsive UI/UX with: HTML/SCSS, React
-- 🛠️ Hands-on with: Docker-Compose, CI/CD, SQL (PostgreSQL), Redis, Redux and more 🙃
+- 🧑‍💻 **Fullstack engineering** — confident with both frontend (React) and backend (Spring Boot, Django, NestJS)  
+- 🤖 Interested in algorithms, AI, and system programming  
+- 💅 Fluent in crafting responsive UI/UX with HTML/SCSS and React  
+- 🔎 Experienced in automation and scripting (Python, Selenium, PyAutoGui, web scraping)  
+- 🛠️ Hands-on with Docker, Docker Compose, CI/CD, SQL (PostgreSQL), Redis, Redux, and more 🙃  
 - 🚀 Always open to team learning and challenging new tech
 
 ---
