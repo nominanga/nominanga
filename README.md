@@ -7,7 +7,7 @@
 
 ### 📖 About me
 
-- Computer Science student at NRNU MEPhI (Program Engineering, AI)  
+- Computer Science student at NRNU MEPhI (Software Engineering, AI)  
 - Currently focused on Backend Development, but also experienced with Frontend and Fullstack  
 - Curious about system programming and ML/AI — planning to explore these areas more deeply
 
